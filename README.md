@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steven Chacón</h1>
+<h1 align="center">Hey! I'm Steven Chacón</h1>
 
 - I’m currently learning **about several coding lenguages**.
 
