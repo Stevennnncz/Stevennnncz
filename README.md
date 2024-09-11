@@ -50,11 +50,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/>
 </a>
 
-<!-- C++ -->
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
 <div >
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Stevennnncz&layout=donut&theme=dark&hide_border=true'>
 </div>
