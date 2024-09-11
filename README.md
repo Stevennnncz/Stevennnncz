@@ -6,11 +6,9 @@
 
 - How to reach me: **steven070295@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3>Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">  
+<p>  
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -55,8 +53,10 @@
 <!-- C++ -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
-</a>git
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevennnncz&layout=donut&show_icons=true&theme=dark&hide_border=true&center=true)](https://github.com/anuraghazra/github-readme-stats)
+<div >
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Stevennnncz&layout=donut&theme=dark&hide_border=true'>
+</div>
 
 
