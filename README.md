@@ -1,3 +1,6 @@
+<div align="center">
+ <img src='https://media1.tenor.com/m/4ESu9QxGjZ8AAAAC/turtwig-turtwig-aaa.gif' style="width: 200px; height: 200px;">
+</div>
 <h1 align="center">Hey! I'm Steven Chacón</h1>
 
 - I’m currently learning **about several coding lenguages**.
@@ -50,12 +53,12 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/>
 </a>
 
-<div >
+<div>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Stevennnncz&layout=donut&theme=dark&hide_border=true'>
 </div>
 
 
-![Alt Text](https://media1.tenor.com/m/4ESu9QxGjZ8AAAAC/turtwig-turtwig-aaa.gif)
+
 
 
 
