@@ -55,6 +55,8 @@
 <!-- C++ -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+</a>git
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
